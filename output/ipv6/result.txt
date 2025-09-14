@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-14 18:25:00,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-09-15 06:22:37,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -47,7 +47,6 @@ CCTV-5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888
 CCTV-5,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 CCTV-5,http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-5+,https://migu.188766.xyz/?migutoken=22b257c7fa63ba5d4fac7d061b4868b9&id=CCTV5p&type=yy
 CCTV-5+,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
@@ -56,6 +55,7 @@ CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
+CCTV-5+,http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 CCTV-6,https://migu.188766.xyz/?migutoken=a5c88255b66b3d21b916d44f61fcfef1&id=CCTV6&pp=1
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -77,7 +77,6 @@ CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
-CCTV-8,https://migu.188766.xyz/?migutoken=1bcc321b57f90af7079df5ac7fbda6fe&id=CCTV8&type=yy
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,https://hls-gateway.vpstv.net/streams/476892.m3u8
@@ -85,7 +84,6 @@ CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
 CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-9,https://migu.188766.xyz/?migutoken=566c78d8d05acbfe4f212ae702e2d4c6&id=CCTV9&type=yy
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9,https://hls-gateway.vpstv.net/streams/476893.m3u8
@@ -102,7 +100,6 @@ CCTV-10,http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215b
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u8
@@ -139,7 +136,6 @@ CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV-15,https://migu.188766.xyz/?migutoken=068759f0c24f460d584c4a4b42ad23bb&id=CCTV15&type=yy
 CCTV-15,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
@@ -148,6 +144,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
+CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-16,https://migu.188766.xyz/?migutoken=224540c3f0ec12ca561d38cbdf57886e&id=CCTV16&pp=1
 CCTV-16,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
@@ -569,6 +566,7 @@ CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0i
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://eastscreen.tv/ooooo.php
@@ -661,7 +659,6 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8
 炫动卡通,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010117/1.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-12.m3u8
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
