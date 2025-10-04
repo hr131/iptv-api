@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2025-10-04 18:25:10,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-05 06:23:14,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 
 央视频道,#genre#
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 CCTV-8,http://171.15.18.199:8180/TV00000000000000000008@HHZT
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
-CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
@@ -16,10 +16,8 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zzssw01.55555.io:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
